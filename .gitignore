@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Original annual-report PDFs: the companies' documents, and too large for the repository
+data/reports/
